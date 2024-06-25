@@ -9,3 +9,10 @@
 | Resistor 56R | R$ 0,07 | 10 | R$ 0,70 |
 | Resistor 820R | R$ 0,07 | 10 | R$ 0,70 |
 | Potenciômetro 10K | R$ 9,50 | 1 | R$ 9,50 |
+
+# Circuito no Falstad
+
+https://tinyurl.com/2o47qgkn 
+
+![image](https://github.com/LauraPaziniMedeiros/Fonte-de-Tensao-Ajustavel/assets/162479440/e3c570d7-45b3-474f-aecb-6aeab290da03)
+
