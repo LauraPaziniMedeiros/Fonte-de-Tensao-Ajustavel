@@ -8,3 +8,4 @@
 | Transistor NPN BC639 | R$ 0,80 | 2 | R$ 1,60 |
 | Resistor 56R | R$ 0,07 | 10 | R$ 0,70 |
 | Resistor 820R | R$ 0,07 | 10 | R$ 0,70 |
+| Potenciômetro 10K | R$ 9,50 | 1 | R$ 9,50 |
