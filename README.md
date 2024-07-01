@@ -39,7 +39,7 @@ Dispositivo utilizado para o armazenamento de cargas elétricas. Fornece corrent
 ## Diodo Zener: 
 Componente responsável por ser um regulador de tensão permitindo a passagem de corrente somente quando a tensão for menor do que o seu valor nominal. No projeto, o Zener utilizado permite a passagem de corrente com até 13V.
 
-## Poteciômetro: 
+## Potenciômetro: 
 Componente eletrônico que possui resistência elétrica ajustável. No projeto, foi utilizado para regular o fluxo de corrente e, com isso, a tensão resultante do circuito para um intervalo de máximo mínimo de 3V e mínimo máximo de 12V.
 
 ## Transistor: 
