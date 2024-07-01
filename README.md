@@ -25,7 +25,7 @@ https://tinyurl.com/2gb4ddfg
 # Função dos Componentes
 
 ## Transformador: 
-Dispositivo reponsável por abaixar ou aumentar a tensão elétrica por meio da indução eletromagnética. O tranformador utilizado reduz a ddp de entrada da tomada de 127V para 17V.
+Dispositivo reponsável por abaixar ou aumentar a tensão elétrica por meio da indução eletromagnética. O tranformador utilizado reduz a ddp de entrada da tomada de 127V para 24,2V.
 
 ## Diodos: 
 Componente eletrônico que permite a passagem da corrente elétrica somente em um sentido. No projeto são utilizados 4 diodos no formato Ponte de Diodo para que a tensão alternada seja transformada em contínua, utilizando ambos os ciclos da corrente.
