@@ -45,6 +45,12 @@ Componente eletrônico que possui resistência elétrica ajustável. No projeto,
 ## Transistor: 
 Componente que amplifica ou atenua a intensidade da corrente elétrica em circuitos eletrônicos. No projeto, é utilizado para ajustar a corrente que passa pelo diodo zener.
 
+# Eagle:
+
+![WhatsApp Image 2024-07-01 at 17 06 15](https://github.com/LauraPaziniMedeiros/Fonte-de-Tensao-Ajustavel/assets/162364634/d8ef2b36-68de-4762-9201-63b63e004ed4)
+
+![WhatsApp Image 2024-07-01 at 17 05 46](https://github.com/LauraPaziniMedeiros/Fonte-de-Tensao-Ajustavel/assets/162364634/76f35a3e-590e-45fa-9c3e-5d5d9e9f00c5)
+
 
 
 
