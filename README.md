@@ -53,7 +53,8 @@ Componente que amplifica ou atenua a intensidade da corrente elétrica em circui
 
 # Cálculos:
 
-![cálculos fonte](https://github.com/LauraPaziniMedeiros/Fonte-de-Tensao-Ajustavel/assets/162364634/7b60a214-4edd-43ce-964f-de4f91cbf29f)
+![Untitled](https://github.com/LauraPaziniMedeiros/Fonte-de-Tensao-Ajustavel/assets/162479440/0ee55614-bdfe-44d7-9034-3070705c81bf)
+
 
 # Foto:
 
