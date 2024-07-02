@@ -59,6 +59,10 @@ Componente que amplifica ou atenua a intensidade da corrente elétrica em circui
 
 ![Imagem do WhatsApp de 2024-07-01 à(s) 17 21 33_d6a5b3a1](https://github.com/LauraPaziniMedeiros/Fonte-de-Tensao-Ajustavel/assets/162364634/99a97c56-35d4-460a-83e2-f3568279919f)
 
+# Vídeo:
+
+https://drive.google.com/file/d/1HOmOiJTKnDjLHs63Mg9_mJeWsp2cMd1I/view?usp=drivesdk
+
 # Alunos:
 * Luysa de Souza Gonçalves
 * Laura Pazini Medeiros
