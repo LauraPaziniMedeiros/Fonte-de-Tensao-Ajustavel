@@ -6,11 +6,10 @@
 | Diodo Zener 13V 1W  | R$ 0,50  |  1  | R$ 0,50 |
 | Capacitor 470uFx25V | R$ 1,50 | 1 | R$ 1,50 |
 | Transistor NPN BC639 | R$ 0,80 | 1 | R$ 0,80 |
-| Potenciômetro 10K | R$ 9,50 | 1 | R$ 9,50 |
-| Resistor 10K |   R$ 0,07   |   2   |  R$ 0,14    |
-| Resistor 330R |   R$ 0,07    |   1 | R$ 0,07  |
-| Resistor 1K  |   R$ 0,07   |  1  | R$ 0,07  |
-| Resistor 120R  |  -  | 1 | emprestado |
+| Potenciômetro 10K  | R$ 9,50 | 1 | R$ 9,50 |
+| Resistor 10K Ω |   R$ 0,07   |   2   |  R$ 0,14    |
+| Resistor 330 Ω |   R$ 0,07    |   1 | R$ 0,07  |
+| Resistor 1K Ω  |   R$ 0,07   |  1  | R$ 0,07  |
 | Led Verde |  R$ 0,24 | 1 | R$ 0,24 |
 | Placa Protoboard | R$ 20,40 | 1 | R$ 20,40 |
 | _Total_ |    |    | R$ 34,02  |
@@ -60,6 +59,11 @@ Componente que amplifica ou atenua a intensidade da corrente elétrica em circui
 
 ![Imagem do WhatsApp de 2024-07-01 à(s) 17 21 33_d6a5b3a1](https://github.com/LauraPaziniMedeiros/Fonte-de-Tensao-Ajustavel/assets/162364634/99a97c56-35d4-460a-83e2-f3568279919f)
 
+# Alunos:
+* Luysa de Souza Gonçalves
+* Laura Pazini Medeiros
+* Frederico Scheffel Oliveira
+* Kauany Fernandes Santos
 
 
 
